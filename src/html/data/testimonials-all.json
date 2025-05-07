@@ -1,0 +1,65 @@
+[
+    {
+        "stars": 5,
+        "text": "Дивная природная фактура (лесные просторы + Плещеево озеро) архитектурное средневековье патриархальный городок с тишиной, уютом и множество музеев .",
+        "name": "Indiana Jones",
+        "role": "Travel Enthusiast",
+        "img": "01.jpg"
+    },
+    {
+        "stars": 4,
+        "text": "I had a seamless booking process with this travel website. Their website was easy to navigate, and I got fantastic deals on flights and accommodation. Will definitely use them for future trips.",
+        "name": "Van Damme",
+        "role": "Travel Enthusiast",
+        "img": "02.jpg"
+    },
+    {
+        "stars": 3,
+        "text": "Amazing experience! The travel website made booking our vacation a breeze. Everything was well-organized, and we had a fantastic time exploring new places. Highly recommend! " ,
+        "name": "Sylvester Stallone",
+        "role": "Travel Enthusiast",
+        "img": "03.jpg"
+    },
+    {
+        "stars": 5,
+        "text": "Lorem ipsum dolor sit amet, Efficient and reliable! The travel website helped me find the best travel deals, and  user-friendly interface made  booking process.Была Супер красоткой 90х",
+        "name": "Pamela Anderson",
+        "role": "Travel Enthusiast",
+        "img": "04.jpg"
+    },
+    {
+        "stars": 5,
+        "text": "The travel website's customer service is top-notch! They were quick to respond to my queries and helped me plan a dream vacation. It was an excellent experience from start to finish.",
+        "name": "Whoopi Goldberg",
+        "role": "Travel Enthusiast",
+        "img": "05.jpg"
+    },
+    {
+        "stars": 5,
+        "text": "A one-stop-shop for all things travel! The website's variety of travel options and user reviews helped me make informed decisions and ensured a smooth trip.Привет Джон,Современный актер.",
+        "name": "Dwayne Johnson",
+        "role": "Travel Enthusiast",
+        "img": "06.jpg"
+    },
+    {
+        "stars": 4,
+        "text": "The travel website's customer service is top-notch! They were quick to respond to my queries and helped me plan a dream vacation. It was an excellent experience from start to finish.",
+        "name": "Angelina Jolie",
+        "role": "Travel Enthusiast",
+        "img": "08.jpg"
+    },
+    {
+        "stars": 5,
+        "text": "The detailed travel guides provided by this website were invaluable during our journey. We felt confident exploring a new destination, thanks to their helpful  and.Играл в фильме Троя.",
+        "name": "Eric Bana",
+        "role": "Travel Enthusiast",
+        "img": "09.jpg"
+    },
+    {
+        "stars": 5,
+        "text": "The travel website's customer service is top-notch! They were quick to respond to my queries and helped me plan a dream vacation. It was an excellent experience from Музыкант 90x.",
+        "name": "Dr. Alban",
+        "role": "Travel Enthusiast",
+        "img": "07.jpg"
+    }
+]

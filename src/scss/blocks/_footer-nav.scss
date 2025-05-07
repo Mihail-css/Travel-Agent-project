@@ -1,0 +1,30 @@
+.footer-nav {
+    display: grid;
+    gap: 24px;
+
+    @include mobile {
+		gap: 12px;
+	
+
+	}
+}
+
+.footer-nav__title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+
+}
+
+.footer-nav__list {
+
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 150%;
+
+    li {
+        padding: 8px 0;
+
+    }
+
+}

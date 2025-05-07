@@ -1,0 +1,60 @@
+[
+    {
+
+        "img": "bali.jpg",
+        "title": "Bali, Indonesia",
+        "rating": "4,5",
+        "price": "900"
+
+    },
+    {
+
+        "img": "perec.jpg",
+        "title": "Pereslavl-Zalessky,Rus",
+        "rating": "5",
+        "price": "300"
+
+    },
+    {
+
+        "img": "bangkok.jpg",
+        "title": "Bangkok, Thailand",
+        "rating": "4,5",
+        "price": "450"
+
+    },
+    {
+
+        "img": "santorini.jpg",
+        "title": "Kostroma, Russia",
+        "rating": "5",
+        "price": "600"
+
+    },
+    {
+
+        "img": "paris.jpg",
+        "title": "Paris, France",
+        "rating": "3",
+        "price": "900"
+
+    },
+
+    {
+
+        "img": "new-york.jpg",
+        "title": "New York, USA",
+        "rating": "4",
+        "price": "1200"
+
+    },
+
+    {
+
+        "img": "dubai.jpg",
+        "title": "Dubai, UAE",
+        "rating": "4,5",
+        "price": "900"
+
+    }
+]

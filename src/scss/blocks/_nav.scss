@@ -1,0 +1,41 @@
+.nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 32px;
+}
+
+.nav__logo {
+	flex-shrink: 0;
+}
+
+
+.nav__list {
+	display: flex;
+	justify-content: space-between;
+	gap: 24px;
+	font-style:normal;
+	//адаптив через миксины
+	@include mobileXs  {
+		display: none;
+	}
+
+}
+
+a:hover,
+.active {
+	color: #35AFF4;
+
+}
+
+
+.nav__btns {
+	display: flex;
+	gap: 12px;
+	
+	//адаптив через миксины
+	@include mobileXs  {
+		display: none;
+	}
+
+}

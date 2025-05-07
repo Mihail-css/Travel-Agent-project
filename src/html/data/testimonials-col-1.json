@@ -1,0 +1,46 @@
+[
+    {
+        "stars": 5,
+        "text": "Дивная природная фактура (лесные просторы + Плещеево озеро) архитектурное средневековье патриархальный городок с тишиной, уютом и множество музеев .",
+        "name": "Indiana Jones",
+        "role": "Travel Enthusiast",
+        "img": "01.jpg"
+    },
+    {
+        "stars": 4,
+        "text": "I had a seamless booking process with this travel website. Their website was easy to navigate, and I got fantastic deals on flights and accommodation. Will definitely use.",
+        "name": "Van Damme",
+        "role": "Travel Enthusiast",
+        "img": "02.jpg"
+    },
+    {
+        "stars": 3,
+        "text": "Amazing experience! The travel website made booking our vacation a breeze. Everything was well-organized, and we had a fantastic time exploring new places. Highly ",
+        "name": "Sylvester Stallone",
+        "role": "Travel Enthusiast",
+        "img": "03.jpg"
+    },
+
+    {
+        "stars": 5,
+        "text": "An outstanding resource for travel enthusiasts! The website's destination reviews and travel advice were spot-on. I now trust their recommendations for all my trips.. ",
+        "name": "Indiana Jones",
+        "role": "Travel Enthusiast",
+        "img": "01.jpg"
+    },
+    {
+        "stars": 4,
+        "text": "I had a seamless booking process with this travel website. Their website was easy to navigate, and I got fantastic deals on flights and accommodation. Will definitely use them for future trips.",
+        "name": "Van Damme",
+        "role": "Travel Enthusiast",
+        "img": "02.jpg"
+    },
+    {
+        "stars": 3,
+        "text": "Amazing experience! The travel website made booking our vacation a breeze. Everything was well-organized, and we had a fantastic time exploring new places. Highly recommend!",
+        "name": "Sylvester Stallone",
+        "role": "Travel Enthusiast",
+        "img": "03.jpg"
+    }
+
+]

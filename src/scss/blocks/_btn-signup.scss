@@ -1,0 +1,25 @@
+.btn-Signup {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   column-gap: 10px;
+
+   padding: 8px 20px;
+
+   border-radius: 8px;
+   border: 1px solid #b7b7b7;
+   height: 40px;
+   font-weight: 450;
+   font-size: 16px;
+   line-height: 1.5;
+   color: #fff;
+   background-color: #181818;
+   transition: background-color 0.2s ease-in, color 0.2s ease-in;
+}
+
+.btn-Signup:hover,
+.btn-Signup:focus {
+   opacity: 0.8;
+   color:#181818;
+   background-color:#b7b7b7;
+}

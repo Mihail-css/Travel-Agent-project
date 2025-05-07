@@ -1,0 +1,23 @@
+:root {
+	--container-width: 1230px;
+	--container-padding: 15px;
+
+	--font-main: 'Montserrat', sans-serif;
+
+
+
+	--page-bg: #fff;
+	--text-color: #181818;
+	--accent: #35AFF4;
+	--link-color: #181818;
+	--text-nuted: #909090;
+
+	--laptop-size: 1199px;
+	--mobile-size: 899px;
+	--mobile-s-size: 599px;
+}
+
+.dark {
+	--page-bg: #252526;
+	--text-color: #fff;
+}

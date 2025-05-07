@@ -1,0 +1,83 @@
+.title-1 {
+	font-weight: 700;
+	font-size: 72px;
+	color: var(--text-color);
+
+	&--decor {
+		position: relative;
+	}
+
+	&--decor::after {
+		content: "";
+		position: absolute;
+
+		bottom: -5px;
+		width: 268px;
+		height: 24px;
+		left: 10px;
+
+		background-image: url('./../img/discover/underline.svg');
+		background-repeat: no-repeat;
+
+		@include mobile {
+			width: 184px;
+			height: 12px;
+			background-size: contain;
+			left: 120px;
+		}
+
+	}
+
+	@include mobileXs {
+		font-size: 52px;
+	}
+
+	@include mobile {
+		font-size: 32px;
+		text-align: center;
+	}
+
+	@include mobileS {
+		font-size: 26px;
+
+	}
+
+}
+
+
+.title-3 {
+
+	font-weight: 500;
+	font-size: 36px;
+
+	@include mobile {
+		font-size: 28px;
+	
+	}
+
+}
+
+
+
+.text {
+	
+	font-weight: 450;
+	font-size: 18px;
+	line-height: 1.5;
+	color: var(--text-nuted);
+
+	p+p {
+		margin-top: 1em;
+	}
+
+	@include mobile {
+		font-size: 16px;
+		text-align: center;
+	}
+
+	@include mobileS {
+		font-size: 15px;
+
+	}
+
+}

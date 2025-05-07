@@ -1,0 +1,54 @@
+.footer {
+
+	background-color: #181818;
+	color: #fff;
+	padding: 80px 120px;
+
+	a {
+		color: #fff;
+	}
+
+	@include mobile {
+		padding: 40px;
+
+	}
+}
+
+
+.footer__row {
+	display: grid;
+	gap: 128px;
+	grid-template-columns: 1fr 1fr;
+	align-items: start;
+
+	@include mobile {
+		grid-template-columns: 1fr;
+		gap: 40px;
+		text-align: center;
+	}
+
+}
+
+.footer__copyright {
+	display: grid;
+	gap: 24px;
+
+}
+
+.footer__copyright-text {
+	max-width: 310px;
+}
+
+
+.footer__nav {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 40px;
+	align-items: start;
+
+	@include mobile {
+		grid-row: -1/1;
+	gap: 20px;
+
+	}
+}
