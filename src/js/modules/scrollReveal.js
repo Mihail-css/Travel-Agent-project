@@ -10,7 +10,7 @@ ScrollReveal({
 
 function scrollRevealFunc() {
 
-    ScrollReveal().reveal('.nav__list ,.logo, .nav__btns,', {
+    ScrollReveal().reveal('.nav__list ,.logo,.nav__btns,.popular__controls' , {
         origin: 'top',
         // distance: '0px',
         //opacity: 0,
@@ -18,13 +18,13 @@ function scrollRevealFunc() {
 
     });
 
-    ScrollReveal().reveal(' .discover__picture-hint, .discover__title', {
+    ScrollReveal().reveal(' .discover__picture-hint, .discover__title ' , {
         origin: 'left',
         scale: 2,
 
     });
 
-    ScrollReveal().reveal('.discover__picture-scroll, .discover__text , .popular__controls', {
+    ScrollReveal().reveal('.discover__picture-scroll, .discover__text ',  {
         origin: 'right',
         //scale:2,
 
